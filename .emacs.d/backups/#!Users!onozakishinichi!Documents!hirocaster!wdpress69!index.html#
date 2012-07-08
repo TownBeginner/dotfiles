@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Wdpress69 : " />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>はじめての Pull Request</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/hirocaster/wdpress69">Give me Pull Request</a>
+
+          <h1 id="project_title">はじめての Pull Request</h1>
+          <h2 id="project_tagline">WEB+DB PRESS Vol.69 Github特集</h2>
+
+          <section id="wdpress">
+            <a class="wdpress_link" href="http://gihyo.jp/magazine/wdpress/archive/2012/vol69">WEB+DB PRESS Vol.69</a>
+          </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>Pull Requestを送ってみよう！</h3>
+
+<p>本サイトはWEB+DB PRESS Voll.69 Github特集にて、はじめてGithubで Pull Request を送ってみるために特設されたサイトです。</p>
+<p>本書をお買い上げの上、お試し頂けますと幸いです。</p>
+
+<h3>本書の感想</h3>
+
+<p>本書のこういった試みや本書への感想を記載して Pull Request してください。</p>
+
+<p class="impression">わかりやすかったです。これからSOCIAL CODINGの世界に飛び込んでいきたいと思います!(@yonestra)</p>
+
+<p class="impression">本サイトの取り組みが大変面白かったです。こんな使い方もあるんですね！なかなか試す機会がなかったPull Requestを実行でき、いろいろと学ぶことができました。これからも楽しみにしています。(<a href="http://twitter.com/kseta19">@kseta19</a>)</p>
+
+<p class="impression"> 著者です。これを機にGitHubを現場でも使ってください。（<a href="http://twitter.com/hirocaster">@HIROCASTER</a>）</p>
+
+<p class="impression">編集を担当しました。GitHubでのPull Requestを使った開発の流れがわかり、とても面白かったです。(d_ikeda)</p>
+
+<p class="impression">編集部のゲラ箱のゲラをゲラ読み中です。いまは4章を読みながら、実際に試しています。ここまでの章はとてもわかりやすかったです。ありがとうごnざいます。(<a href="http://twitter.com/inao">@inao</a>)</p>
+<p class="impression">git入門は一通り読んだのですが、具体的な実践をどうしようnかと考えていたときに本特集を知り購入しました。GitHubについても丁寧でわかりやすく、スムーズに進めることができました。ありがとうございます。もっと慣れて、いろいろな方とPull Requestを出し合えたりなどができたら楽しいだろうなと思いながら、gitとプログラミングに励むことにします。(<a href="http://twitter.com/town_b">@town_b</a>)</p>
+
+<h3>問い合わせ</h3>
+
+<p>本サイトについて問い合わせがありましたら<a href="http://hiroki.jp/contact/">こちら</a>からご連絡ください。</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Wdpress69 maintained by <a href="https://github.com/hirocaster">hirocaster</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-31168931-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+
+  </body>
+</html>
+</h1>
