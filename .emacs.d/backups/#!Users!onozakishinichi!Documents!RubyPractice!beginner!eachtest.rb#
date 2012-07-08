@@ -1,0 +1,4 @@
+languages = ["Ruby","Java","Python","Perl","SQL"]
+languages.each { |lang|
+  puts "Programming language #{lang} "
+}

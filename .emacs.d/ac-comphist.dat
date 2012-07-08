@@ -1,118 +1,128 @@
-((("ruby-mode-hooks" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("add-hook" .
-   [1 0 0 0 0 0 0 0])
-  ("inf-ruby-keys" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("ruby-mode-hook" .
-   [0 0 0 0 0 0 0 0 0 0 3 0 0 0])
-  ("inf-ruby" .
-   [1 0 0 0 0 0 0 0])
-  ("de" .
-   [1 0])
-  ("in" .
-   [3 0])
-  ("autoload" .
-   [2 0 0 0 0 0 0 0])
-  ("ruby-block" .
-   [1 0 0 0 0 0 1 0 0 1])
-  ("ruby-electric" .
-   [0 0 0 0 0 0 0 2 0 0 0 0 0])
-  ("list" .
+((("putc" .
+   [0 0 0 1])
+  ("lang" .
    [1 0 0 0])
-  ("howm-mode" .
-   [1 0 0 0 0 0 0 0 0])
-  ("howm" .
-   [3 0 0 0])
-  ("user-emacs-directory" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("concat" .
-   [1 0 0 0 0 0])
-  ("suspend-emacs" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("suspend-tty" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("elscreen-map" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("iconify-or-deiconify-frame" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("window-system" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("if" .
-   [1 0])
-  ("elscreen" .
-   [1 0 0 1 0 0 0 0])
-  ("global-undo-tree-mode" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Global-Undo-Tree" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("undo-tree" .
-   [1 0 0 0 0 0 0 0 0])
-  ("when" .
-   [6 0 0 0])
-  ("wgrep" .
-   [1 0 0 0 0])
-  ("migemo" .
-   [1 0 0 0 0 0])
-  ("executable-find" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("dmoccur-exclusion-mask" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("add-to-list" .
-   [0 0 0 0 0 0 1 0 0 0 1])
-  ("setq" .
-   [8 0 0 0])
-  ("kbd" .
-   [7 0 0])
-  ("global-map" .
-   [0 0 0 1 0 0 0 0 0 2])
-  ("define-key" .
-   [2 0 0 0 0 1 2 1 0 0])
-  ("nil" .
-   [10 0 0])
-  ("color-moccurの設定" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("require" .
-   [7 0 0 0 1 2 0])
-  ("moccur-edit" .
-   [3 0 0 0 0 0 0 0 0 0 0])
-  ("moccur-edit-finish-edit" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("defadvice" .
-   [1 0 0 0 0 0 0 0 0])
-  ("moccur-edit-change-file" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("save-buffer" .
-   [0 0 0 0 0 1 1 0 0 0 0])
-  ("pi" .
-   [1 0])
-  ("po" .
-   [2 0])
-  ("point-undo" .
-   [0 0 0 0 0 0 2 0 0 0])
-  ("f5" .
-   [1 0])
-  ("defun" .
-   [2 0 0 0 0])
-  ("howmメモを保存と同時に閉じる" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("interactive" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("and" .
-   [1 0 0])
-  ("buffer-file-name" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("string-match" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("kill-buffer" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("howm-mode-map" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("C-c" .
-   [1 0 0])
-  ("howm-save-buffer" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("each" .
+   [0 0 1 0])
+  ("language" .
+   [0 0 0 0 0 0 0 1])
+  ("load" .
+   [0 1 0 0])
+  ("cua-mode" .
+   [2 0 0 0 0 0 0 0])
   ("howm-save-buffer-and-kill" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("cua-mode" .
-   [2 0 0 0 0 0 0 0])))
+  ("howm-save-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("C-c" .
+   [1 0 0])
+  ("howm-mode-map" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kill-buffer" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("string-match" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("buffer-file-name" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("interactive" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("howmメモを保存と同時に閉じる" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("defun" .
+   [2 0 0 0 0])
+  ("f5" .
+   [1 0])
+  ("point-undo" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("po" .
+   [2 0])
+  ("pi" .
+   [1 0])
+  ("save-buffer" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("moccur-edit-change-file" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defadvice" .
+   [1 0 0 0 0 0 0 0 0])
+  ("moccur-edit-finish-edit" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("moccur-edit" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [7 0 0 0 1 2 0])
+  ("color-moccurの設定" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("nil" .
+   [10 0 0])
+  ("define-key" .
+   [2 0 0 0 0 1 2 1 0 0])
+  ("global-map" .
+   [0 0 0 1 0 0 0 0 0 2])
+  ("kbd" .
+   [7 0 0])
+  ("setq" .
+   [8 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 1])
+  ("dmoccur-exclusion-mask" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("executable-find" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("migemo" .
+   [1 0 0 0 0 0])
+  ("wgrep" .
+   [1 0 0 0 0])
+  ("when" .
+   [6 0 0 0])
+  ("undo-tree" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Global-Undo-Tree" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("global-undo-tree-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("elscreen" .
+   [1 0 0 1 0 0 0 0])
+  ("if" .
+   [1 0])
+  ("window-system" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("iconify-or-deiconify-frame" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("elscreen-map" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("suspend-tty" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("suspend-emacs" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("user-emacs-directory" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("howm" .
+   [3 0 0 0])
+  ("howm-mode" .
+   [1 0 0 0 0 0 0 0 0])
+  ("list" .
+   [1 0 0 0])
+  ("ruby-electric" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("ruby-block" .
+   [1 0 0 0 0 0 1 0 0 1])
+  ("autoload" .
+   [2 0 0 0 0 0 0 0])
+  ("in" .
+   [3 0])
+  ("de" .
+   [1 0])
+  ("inf-ruby" .
+   [1 0 0 0 0 0 0 0])
+  ("ruby-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("inf-ruby-keys" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("add-hook" .
+   [1 0 0 0 0 0 0 0])
+  ("ruby-mode-hooks" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])))
